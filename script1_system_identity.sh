@@ -5,7 +5,7 @@
 # Course: Open Source Software
 
 # Variables
-STUDENT_NAME="Ajinkya Wasnik"
+STUDENT_NAME="Puli Sai Chaithanya Kumar"
 SOFTWARE_CHOICE="Python"
 
 # System information

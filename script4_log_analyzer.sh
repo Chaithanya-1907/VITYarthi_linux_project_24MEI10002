@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script 4: Log File Analyzer
-# Author: Ajinkya Wasnik
+# Author: Puli Sai Chaithanya Kumar
 # Course: Open Source Software
 
 LOGFILE=$1
